@@ -1,3 +1,3 @@
-# CS 202 Fundamental Structures of Computer Science II - Summer 2020
+# CS 202 Fundamental Structures of Computer Science II 
 
-Homework Assignments
+Summer 2020 - Homework Assignments
